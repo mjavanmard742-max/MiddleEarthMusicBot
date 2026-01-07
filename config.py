@@ -1,0 +1,3 @@
+TOKEN = "8034882221:AAFgWKHY88I2pgK2sb_cpwoSjxoQjV_MRzY"
+ADMIN_ID = [8522374988]
+DB_NAME = "music_bot.db"
